@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "BMW 5 F10",
+        "price": 500,
+        "date": "12.12.2024",
+        "status": "Подтверждено"
+    },
+    {
+        "id": 2,
+        "name": "BMW 3 F30",
+        "price": 500,
+        "date": "12.12.2024",
+        "status": "Новое"
+    },
+    {
+        "id": 3,
+        "name": "Audi A6 C6",
+        "price": 500,
+        "date": "12.12.2024",
+        "status": "Новое"
+    },
+    {
+        "id": 4,
+        "name": "Chrysler 300M",
+        "price": 500,
+        "date": "12.12.2024",
+        "status": "Новое"
+    },
+    {
+        "id": 5,
+        "name": "Chrysler 300C",
+        "price": 500,
+        "date": "12.12.2024",
+        "status": "Новое"
+    }
+]

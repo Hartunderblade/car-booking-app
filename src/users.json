@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Иванов Иван",
+        "phone": "+7 000 00 00",
+        "email": "ivan@gmail.com",
+        "car": "BMW 5 F10",
+        "date": "12.12.2024"
+    },
+    {
+        "id": 2,
+        "name": "Иванов Иван",
+        "phone": "+7 000 00 00",
+        "email": "ivan@gmail.com",
+        "car": "BMW 5 F10",
+        "date": "12.12.2024"
+    },
+    {
+        "id": 3,
+        "name": "Иванов Иван",
+        "phone": "+7 000 00 00",
+        "email": "ivan@gmail.com",
+        "car": "BMW 5 F10",
+        "date": "12.12.2024"
+    },
+    {
+        "id": 4,
+        "name": "Иванов Иван",
+        "phone": "+7 000 00 00",
+        "email": "ivan@gmail.com",
+        "car": "BMW 5 F10",
+        "date": "12.12.2024"
+    },
+    {
+        "id": 5,
+        "name": "Иванов Иван",
+        "phone": "+7 000 00 00",
+        "email": "ivan@gmail.com",
+        "car": "BMW 5 F10",
+        "date": "12.12.2024"
+    },
+    {
+        "id": 6,
+        "name": "Иванов Иван",
+        "phone": "+7 000 00 00",
+        "email": "ivan@gmail.com",
+        "car": "BMW 5 F10",
+        "date": "12.12.2024"
+    }
+]
